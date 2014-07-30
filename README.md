@@ -6,7 +6,7 @@ This is minimal qdoc template.
 Compilation
 ===========
 
-If you want to get output from your documentation, run in your "project-dirq"/doc command:
+If you want to get output from your documentation, run in your "project-dir"/doc command:
 
 ```bash
 qdoc doc-project.qdocconf
