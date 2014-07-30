@@ -1,7 +1,16 @@
 qdoc-minimal-configuration
 ==========================
 
-This is minimal qdoc template. 
+This is minimal qdoc template.
+
+Compilation
+===========
+
+If you want to get output from your documentation, run in your <project-dir>/doc command:
+
+```bash
+qdoc doc-project.qdocconf
+```
 
 
 References
