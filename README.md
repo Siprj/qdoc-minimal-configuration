@@ -1,0 +1,2 @@
+qdoc-minimal-configuration
+==========================
